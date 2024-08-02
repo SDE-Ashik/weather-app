@@ -21,8 +21,8 @@
 
 <h2>Screenshots</h2>
 <p>
-    <img src="screenshots/home_screen.png" alt="Home Screen" style="width: 45%; margin-right: 10px;">
-    <img src="screenshots/search_city.png" alt="Search City" style="width: 45%;">
+    <img src="screenshots/home_page.png" alt="Home Screen" style="width: 45%; margin-right: 10px;">
+    <img src="screenshots/place.png" alt="Search City" style="width: 45%;">
 </p>
 
 <h2>Getting Started</h2>
